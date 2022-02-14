@@ -7,7 +7,7 @@ Bu repoda HTML modülünde bulunan ödevlerin çalışmaları bulunmaktadır.
 **Ödev 2** : Ödev 1'de oluşturulan yapıya eklemeler yapıldı.
 - [https://github.com/muhammedseyhann/Patika-HTML/tree/main/Ödev-2](https://github.com/muhammedseyhann/Patika-HTML/tree/main/Ödev-2)
 
-**Ödev 3** : Bu güne kadar öğrenilen HTML etiketleri ile tarif sitesinin yapılması.
+**Ödev 3** : Bugüne kadar öğrenilen HTML etiketleri ile tarif sitesinin yapılması.
 - [https://github.com/muhammedseyhann/Patika-HTML/tree/main/Ödev-3](https://github.com/muhammedseyhann/Patika-HTML/tree/main/Ödev-3)
 
 **Bölüm Sonu Çalışması**
